@@ -6,3 +6,4 @@ RUN \
   echo "1" >> $webfile && \
   echo "2" >> $webfile && \
   echo "3" >> $webfile
+# Se vai qui vedi una pagina web con scritto "1 2 3": http://10.30.105.29:9090/test.html
